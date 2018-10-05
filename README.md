@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/Poustmal/ShulkerBall/master/ShulkerBall.jpg
+https://github.com/Poustmal/ShulkerBall/blob/master/ShulkerBall.jpg
 
 ShulkerBall is my first pmmp plugin using my knowledge about pmmp,pmmp forums and CortexPE's plugin(TeaSpoon).
 
