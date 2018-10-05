@@ -3,6 +3,6 @@ branches:
 - master
 projects:
   ShulkerBall:
-    path: ""
-    icon: "/ShulkerBall.jpg"
+    path: "/"
+    icon: "ShulkerBall.jpg"
 ...
