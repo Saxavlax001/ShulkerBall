@@ -74,8 +74,8 @@ class Shulker extends Monster {
 			$motion = clone $this->motion;
 
 			$motion->x /= 2;
-			$motion->y /= 2;
-			$motion->z /= 2;
+			$motion->y /= 3;
+			$motion->z /= 0.5;
 			$motion->x += $x * $f * $base;
 			$motion->y += $base;
 			$motion->z += $z * $f * $base;
