@@ -1,5 +1,5 @@
-https://github.com/Poustmal/ShulkerBall/blob/master/ShulkerBall.jpg
-
+ShulkerBall/ShulkerBall.jpg
+      
 ShulkerBall is my first pmmp plugin using my knowledge about pmmp,pmmp forums and CortexPE's plugin(TeaSpoon).
 
 ##Features:1.Adds /summon command to spawn a ShulkerBall(Shulker) or any othet existing mobs.
