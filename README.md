@@ -1,4 +1,4 @@
-<h1>ShulkerBall<img src="https://raw.githubusercontent.com/Poustmal/master/ShulkerBall.jpg" height="64" width="64" align="left"></img></h1>
+<h1>ShulkerBall<img src="https://raw.githubusercontent.com/Poustmal/ShulkerBall/master/ShulkerBall.jpg" height="64" width="64" align="left"></img></h1>
 <br />
       
 ShulkerBall is my first pmmp plugin using my knowledge about pmmp,pmmp forums and CortexPE's plugin(TeaSpoon).
