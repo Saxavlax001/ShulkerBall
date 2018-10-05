@@ -4,4 +4,5 @@ branches:
 projects:
   ShulkerBall:
     path: ""
+    icon: "https://raw.githubusercontent.com/Poustmal/ShulkerBall/master/ShulkerBall.jpg"
 ...
