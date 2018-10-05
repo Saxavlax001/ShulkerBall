@@ -1,0 +1,7 @@
+name: ShulkerBall
+author: Saxavlax001, CortexPE
+api: [3.0.0, 4.0.0]
+version: 1.0
+main: Saxavlax001\Main
+description: Football plugin using a shulker
+
