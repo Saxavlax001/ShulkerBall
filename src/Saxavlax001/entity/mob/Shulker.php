@@ -52,7 +52,7 @@ class Shulker extends Monster {
 		return "Shulker";
 	}
 
-	public function initEntity(): void{
+	public function initEntity(CompoundTag $nbt): void{
 		$this->setMaxHealth(9999);
 		$this->getDataPropertyManager()->setInt(Entity::DATA_VARIANT, mt_rand(0, 15)); // TODO: Implement COLORS correctly
 		parent::initEntity();
